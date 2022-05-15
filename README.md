@@ -57,6 +57,7 @@ Project is created with additional technics:
 * SGD with momentum
 * Gradnorm = 1.0
 * Small batchsize 16, 32
+
 Simple improvements:
 * Early stopping callback
 * Reduce learning rate on plateau callback
