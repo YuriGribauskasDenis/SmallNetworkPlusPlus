@@ -63,6 +63,6 @@ Simple improvements:
 * Reduce learning rate on plateau callback
 
 ## Possible improvements
-* Own learning loop
+* Manual learning loop
 * Sample hardness estimation
 * Including hardest examples into next loop
