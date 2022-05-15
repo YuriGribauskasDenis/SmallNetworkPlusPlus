@@ -52,11 +52,14 @@ Dense(3)
 Softmax()
 	
 ## Technologies added
-Project is created with adding:
+Project is created with additional technics:
 * Weight decay
 * SGD with momentum
 * Gradnorm = 1.0
 * Small batchsize 16, 32
+Simple improvements:
+* Early stopping callback
+* Reduce learning rate on plateau callback
 
 ## Possible improvements
 * Own learning loop
